@@ -1,0 +1,92 @@
+[
+    {
+        "name": "6 G Welding",
+        "institute": "Personal Traning Center - PTC",
+        "date": "02-04-2021",
+        "duration": "1 year",
+        "schedule": "Day",
+        "fee": "60 Taka",
+        "Classes": "N/A",
+        "img": "https://images.pexels.com/photos/1474993/pexels-photo-1474993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "name": "Computer Training",
+        "institute": "Personal Traning Center - PTC",
+        "date": "10-05-2021",
+        "duration": "6 Month",
+        "schedule": "Morning",
+        "fee": "60 Taka",
+        "Classes": "N/A",
+        "img": "https://images.pexels.com/photos/1181329/pexels-photo-1181329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "name": "Data Entry",
+        "institute": "Personal Traning Center - PTC",
+        "date": "05-02-2021",
+        "duration": "3 Month",
+        "schedule": "Day",
+        "fee": "60 Taka",
+        "Classes": "N/A",
+        "img": "https://images.pexels.com/photos/3585001/pexels-photo-3585001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "name": "Digital Marketing",
+        "institute": "Personal Traning Center - PTC",
+        "date": "05-07-2021",
+        "duration": "3 Month",
+        "schedule": "Evning",
+        "fee": "60 Taka",
+        "Classes": "N/A",
+        "img": "https://images.pexels.com/photos/270637/pexels-photo-270637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "name": "Web Development",
+        "institute": "Personal Traning Center - PTC",
+        "date": "08-08-2021",
+        "duration": "6 Month",
+        "schedule": "Morning",
+        "fee": "60 Taka",
+        "Classes": "N/A",
+        "img": "https://images.pexels.com/photos/160107/pexels-photo-160107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "name": "Electiricians Course",
+        "institute": "Personal Traning Center - PTC",
+        "date": "05-07-2021",
+        "duration": "5 Month",
+        "schedule": "Morning",
+        "fee": "60 Taka",
+        "Classes": "N/A",
+        "img": "https://images.pexels.com/photos/68173/flash-tesla-coil-experiment-faradayscher-cage-68173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "name": "Graphincs Design",
+        "institute": "Personal Traning Center - PTC",
+        "date": "06-08-2021",
+        "duration": "3 Month",
+        "schedule": "Day",
+        "fee": "60 Taka",
+        "Classes": "N/A",
+        "img": "https://images.pexels.com/photos/57690/pexels-photo-57690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "name": "Automobile",
+        "institute": "Personal Traning Center - PTC",
+        "date": "07-08-2021",
+        "duration": "6 Month",
+        "schedule": "Day",
+        "fee": "60 Taka",
+        "Classes": "N/A",
+        "img": "https://images.pexels.com/photos/8986130/pexels-photo-8986130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "name": "Auto CAD",
+        "institute": "Personal Traning Center - PTC",
+        "date": "05-08-2021",
+        "duration": "6 Month",
+        "schedule": "Day",
+        "fee": "60 Taka",
+        "Classes": "N/A",
+        "img": "https://images.pexels.com/photos/1109541/pexels-photo-1109541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+]

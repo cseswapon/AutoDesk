@@ -1,0 +1,30 @@
+.header-subbort{
+    background-color: #1976d3;
+    box-shadow: 0 6px 20px 0 rgb(25 118 221 / 50%);
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.header-subbort p{
+    margin-right: 30px;
+}
+/* logo image Custom */
+.logo-img img{
+    height: 60px;
+}
+/* menu section customize */
+.header-menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: white;
+    margin-top: 5px;
+}
+/* link design */
+.nav-link a{
+    text-decoration: none;
+    margin-right: 25px;
+    font-weight: bold;
+    color: #659e3e;
+}
