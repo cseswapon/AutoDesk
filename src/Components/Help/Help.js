@@ -1,9 +1,13 @@
 import React from 'react';
-
+import help from '../../img/Helpful sign-pana.png';
+import './Help.css';
 const Help = () => {
     return (
         <div>
-            <h1>Please Help Me</h1>
+            <div className="help-img">
+                <img src={help} alt="helpfool imeage" />
+            </div>
+            <div></div>
         </div>
     );
 };
