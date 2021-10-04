@@ -1,0 +1,10 @@
+.about-paragraph{
+    background-color: aliceblue;
+    padding: 30px;
+    text-align: justify;
+    color: gray;
+}
+.paragraph{
+    margin-left: 150px;
+    margin-right: 150px;
+}
