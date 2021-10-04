@@ -15,3 +15,33 @@
 .img-logo img{
     height: 80px;
 }
+.our-service{
+    text-align: center;
+    font-weight: bolder;
+    color: #56b0f7;
+}
+.our-service::before{
+    content: "";
+    background: #1976d3;
+    height: 5px;
+    width: 240px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    transform: translateY(5px);
+    border-radius: 10px;
+}
+.our-service::after{
+    content: "";
+    background: #1b82e9;
+    height: 8px;
+    width: 68px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 10px;
+    transform: translateY(-58px);
+}
+.our-service h1{
+    transform: translateY(-50px);
+}

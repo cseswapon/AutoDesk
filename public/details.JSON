@@ -1,92 +1,173 @@
 [
     {
+        "key": 1,
         "name": "6 G Welding",
         "institute": "Authorised Traning Center - ATC",
         "date": "02-04-2021",
         "duration": "1 year",
         "schedule": "Day",
-        "fee": "60 Taka",
+        "fee": 60,
+        "reating": 4,
+        "features": [
+            {
+                "technology": "fabrication process",
+                "job": "KCC",
+                "skill": "2 Years"
+            }
+        ],
         "Classes": "N/A",
         "img": "https://images.pexels.com/photos/1474993/pexels-photo-1474993.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
+        "key": 2,
         "name": "Computer Training",
         "institute": "Authorised Traning Center - ATC",
         "date": "10-05-2021",
         "duration": "6 Month",
         "schedule": "Morning",
-        "fee": "60 Taka",
+        "fee": 60,
+        "reating": 2,
+        "features": [
+            {
+                "technology": "Ms Office",
+                "job": "KCC",
+                "skill": "1 Years"
+            }
+        ],
         "Classes": "N/A",
         "img": "https://images.pexels.com/photos/1181329/pexels-photo-1181329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
+        "key": 3,
         "name": "Data Entry",
         "institute": "Authorised Traning Center - ATC",
         "date": "05-02-2021",
         "duration": "3 Month",
         "schedule": "Day",
-        "fee": "60 Taka",
+        "fee": 60,
+        "reating": 3,
+        "features": [
+            {
+                "technology": "Uc,Chrome",
+                "job": "KCC",
+                "skill": "1 Years"
+            }
+        ],
         "Classes": "N/A",
-        "img": "https://images.pexels.com/photos/3585001/pexels-photo-3585001.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        "img": "https://images.pexels.com/photos/259091/pexels-photo-259091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
+        "key": 4,
         "name": "Digital Marketing",
         "institute": "Authorised Traning Center - ATC",
         "date": "05-07-2021",
         "duration": "3 Month",
         "schedule": "Evning",
-        "fee": "60 Taka",
+        "fee": 60,
+        "reating": 1,
+        "features": [
+            {
+                "technology": "PS,AI,Web Browser",
+                "job": "KCC",
+                "skill": "1 Years"
+            }
+        ],
         "Classes": "N/A",
         "img": "https://images.pexels.com/photos/270637/pexels-photo-270637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
+        "key": 5,
         "name": "Web Development",
         "institute": "Authorised Traning Center - ATC",
         "date": "08-08-2021",
         "duration": "6 Month",
         "schedule": "Morning",
-        "fee": "60 Taka",
+        "fee": 60,
+        "reating": 5,
+        "features": [
+            {
+                "technology": "HTML,Css,Node Js,MongoDB",
+                "job": "KCC",
+                "skill": "3 Years"
+            }
+        ],
         "Classes": "N/A",
         "img": "https://images.pexels.com/photos/160107/pexels-photo-160107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
+        "key": 6,
         "name": "Electiricians Course",
         "institute": "Authorised Traning Center - ATC",
         "date": "05-07-2021",
         "duration": "5 Month",
         "schedule": "Morning",
-        "fee": "60 Taka",
+        "fee": 60,
+        "features": [
+            {
+                "technology": "PLC",
+                "job": "KCC",
+                "skill": "1 Years"
+            }
+        ],
+        "reating": 3,
         "Classes": "N/A",
         "img": "https://images.pexels.com/photos/68173/flash-tesla-coil-experiment-faradayscher-cage-68173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
-        "name": "Graphincs Design",
-        "institute": "Authorised Traning Center - ATC",
-        "date": "06-08-2021",
-        "duration": "3 Month",
-        "schedule": "Day",
-        "fee": "60 Taka",
-        "Classes": "N/A",
-        "img": "https://images.pexels.com/photos/57690/pexels-photo-57690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-    },
-    {
+        "key": 8,
         "name": "Automobile",
         "institute": "Authorised Traning Center - ATC",
         "date": "07-08-2021",
         "duration": "6 Month",
         "schedule": "Day",
-        "fee": "60 Taka",
+        "fee": 60,
+        "features": [
+            {
+                "technology": "Car Waring",
+                "job": "KCC",
+                "skill": "1 Years"
+            }
+        ],
+        "reating": 2,
         "Classes": "N/A",
         "img": "https://images.pexels.com/photos/8986130/pexels-photo-8986130.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
     {
+        "key": 9,
         "name": "Auto CAD",
         "institute": "Authorised Traning Center - ATC",
         "date": "05-08-2021",
         "duration": "6 Month",
         "schedule": "Day",
-        "fee": "60 Taka",
+        "fee": 60,
+        "reating": 4,
+        "features": [
+            {
+                "technology": "Supper Computer",
+                "job": "KCC",
+                "skill": "1 Years"
+            }
+        ],
         "Classes": "N/A",
         "img": "https://images.pexels.com/photos/1109541/pexels-photo-1109541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+        "key": 7,
+        "name": "Graphincs Design",
+        "institute": "Authorised Traning Center - ATC",
+        "date": "06-08-2021",
+        "duration": "3 Month",
+        "schedule": "Day",
+        "fee": 60,
+        "features": [
+            {
+                "technology": "PS,AI",
+                "job": "KCC",
+                "skill": "1 Years"
+            }
+        ],
+        "reating": 1,
+        "Classes": "N/A",
+        "img": "https://images.pexels.com/photos/57690/pexels-photo-57690.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     }
 ]

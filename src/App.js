@@ -6,6 +6,8 @@ import Home from "./Components/Home/Home";
 import NotFound from "./Components/NotFound/NotFound";
 import Service from "./Components/Service/Service";
 import Support from "./Components/Support/Support";
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Footer from "./Components/Footer/Footer";
 
 function App() {
   return (
@@ -35,6 +37,7 @@ function App() {
             <NotFound></NotFound>
           </Route>
         </Switch>
+        <Footer></Footer>
       </Router>
     </div>
   );

@@ -1,0 +1,19 @@
+.footer{
+    background-color: #4ecff5ab;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.footer-menu{
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    padding-top: 20px;
+    padding-left: 120px;
+    padding-right: 120px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.footer h1{
+    margin: 0px;
+    padding: 0px;
+}

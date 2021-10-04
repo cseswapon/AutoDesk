@@ -1,0 +1,10 @@
+.small-rating{
+    font-size: 10px;
+    color: orange;
+}
+.div-card{
+    box-shadow: 1px 1px 5px 1px grey;
+}
+.div-card:hover{
+    box-shadow: inset 1px 1px 5px 1px gray;
+}
