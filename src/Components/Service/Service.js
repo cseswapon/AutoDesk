@@ -7,6 +7,7 @@ import Cards from '../Cards/Cards';
 const Service = () => {
     const [service] = useService();
     return (
+        // sub header banner section
         <div>
             <div className="img-cover">
                 <img src={cover} alt="" />
@@ -17,6 +18,7 @@ const Service = () => {
             <div className="our-service">
                 <h1>Our Total Services</h1>
             </div>
+            {/* all card show */}
             {
                 <Container>
                     <Row xs={1} md={2} className="g-4">

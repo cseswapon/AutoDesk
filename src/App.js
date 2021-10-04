@@ -12,6 +12,7 @@ import Footer from "./Components/Footer/Footer";
 function App() {
   return (
     <div>
+      {/* 2 site fixed haeader and every site switch */}
       <Router>
         <Header></Header>
         <Switch>

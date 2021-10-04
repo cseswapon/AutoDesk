@@ -4,6 +4,7 @@ import logo from '../../img/logo.png';
 import './About.css';
 const About = () => {
     return (
+        // main section start
         <div>
             <div className="img-cover">
                 <img src={cover} alt="" />
@@ -15,6 +16,7 @@ const About = () => {
                 <h1>About Us</h1>
             </div>
             <div className="about-paragraph">
+                {/* details section */}
                 <div className="paragraph">
                     <p>
                         The <strong>Training Center</strong> is a training platform operated by the Alliance for Responsible Mining and aims to serve as a virtual space for the dissemination of knowledge of different issues regarding fair and responsible small-scale artisanal mining.

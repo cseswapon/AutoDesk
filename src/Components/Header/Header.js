@@ -5,11 +5,13 @@ import { NavLink } from 'react-router-dom';
 const Header = () => {
     return (
         <>
+            {/* header top section */}
             <div className="header-subbort">
                 <p><i className="fas fa-envelope"></i> abc@abcSupport.com</p>
                 <p><i className="fas fa-phone-square-alt"></i> +88-012-98-856</p>
                 <p><i className="fas fa-university"></i> Institute Account</p>
             </div>
+            {/* header main section */}
             <div className="header-menu">
                 <div className="logo-img">
                     <img src={img} alt="log not found" />

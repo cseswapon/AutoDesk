@@ -3,6 +3,7 @@ import help from '../../img/Helpful sign-pana.png';
 import './Help.css';
 const Help = () => {
     return (
+        // Help section image and help details
         <div className="helpful-section">
             <div className="help-img">
                 <img src={help} alt="helpfool imeage" />

@@ -2,6 +2,7 @@ import React from 'react';
 import './Footer.css';
 const Footer = () => {
     return (
+        // footer section
         <div className="footer">
             <div className="footer-menu">
                 <div>

@@ -7,6 +7,7 @@ const Cards = props => {
     const { img, name, institute, date, duration, schedule, fee, reating, Classes, features } = props.services;
     const technology = features[0];
     return (
+        // Card Section start
         <Col>
             <Card className="div-card">
                 <Card.Img variant="top" src={img} />

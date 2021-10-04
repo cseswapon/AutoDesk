@@ -15,6 +15,7 @@ const Home = () => {
     }, [])
     const services = service.slice(0, 4);
     return (
+        // home page and card section add
         <div>
             <div className="img-cover">
                 <img src={cover} alt="" />
